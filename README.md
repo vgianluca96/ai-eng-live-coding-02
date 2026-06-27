@@ -10,7 +10,7 @@ Examples of tokenization using openai, deepseek and google tokenizers.
 
 ```powershell
 # create python virtual env
-python -v venv .venv
+python -m venv .venv
 
 # activate virtual env
 cd .venv
